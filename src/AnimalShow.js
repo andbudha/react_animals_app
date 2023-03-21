@@ -1,11 +1,11 @@
 import React from 'react';
 
-const App = () => {
+const AnimalShow = () => {
     return (
         <div>
-            Show animals here!
+            Cow!
         </div>
     );
 };
 
-export default App;
+export default AnimalShow;
