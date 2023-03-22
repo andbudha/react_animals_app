@@ -26,7 +26,7 @@ const AnimalShow = ({type}) => {
                 className={'heart'}
                 src={heart}
                 alt="heart-img"
-                style={{width: 10 + 30 * clicks +'px'}}
+                style={{width: 30 + 10 * clicks +'px'}}
             />
         </div>
     );
